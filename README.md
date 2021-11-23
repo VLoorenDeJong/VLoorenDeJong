@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VLoorenDeJong
-- 👀 I’m interested in almost everything actualy
+- 👀 I’m interested in learning everything related to development
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on a lot of thing not decided yet
 - 📫 How to reach me contact@victorloorendejong.nl
