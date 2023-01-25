@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Victor Looren de Jong
 - 👀 I’m interested in learning everything related to development
-- 🌱 I’m currently learning GitHub
+- 🌱 I’m currently learning how Blazor works
 - 💞️ I’m looking to collaborate on a lot of things not decided yet
 - 📫 How to reach me contact@victorloorendejong.nl
 
